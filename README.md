@@ -11,4 +11,4 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 
 ## Implantação em produção
 - Back end: Heroku
-- Banco de Dados: Mysql, PostgreSQL ou MongoDB
+- Banco de Dados: MySQL, PostgreSQL ou MongoDB
