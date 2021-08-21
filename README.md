@@ -8,6 +8,7 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 - Jpa / Hibernate
 - Jwt
 - Maven
+- Lombok
 
 ## Implantação em produção
 - Back end: Heroku
