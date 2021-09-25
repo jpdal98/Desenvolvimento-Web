@@ -1,5 +1,5 @@
 # DSvendas
-Sistema de vendas desenvolvido na semana spring react da devsuperior
+Projeto desenvolvido na Semana Spring React da DevSuperior
 
 # Tecnologias utilizadas
 ## Back end
