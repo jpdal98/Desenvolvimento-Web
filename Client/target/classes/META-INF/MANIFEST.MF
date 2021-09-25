@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 16
-Implementation-Title: client
-Implementation-Version: 0.0.1-SNAPCHOT
-Created-By: Maven Integration for Eclipse
-
