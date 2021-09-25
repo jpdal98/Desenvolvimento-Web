@@ -1,5 +1,5 @@
-# Agenda de Contatos v1
-Sistema responsável por fazer o gerenciamento de contatos presentes na agenda telefônica de um usuário.
+# Client-crud
+Crud de usuário
 
 # Tecnologias utilizadas
 ## Back end
