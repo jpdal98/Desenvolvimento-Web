@@ -10,7 +10,7 @@ Projeto desenvolvido na Semana Spring React da DevSuperior
 - Maven
 
 ## Implantação em desenvolvimento
-- Banco de Dados: H2
+- Banco de Dados: PostGreSQL
 
 ## Implantação em desenvolvimento
 - Banco de Dados: H2
