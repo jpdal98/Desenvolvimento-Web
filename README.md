@@ -6,7 +6,7 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 - Java
 - Spring Boot
 - Jpa / Hibernate
-- Jwt
+- Spring Security
 - Maven
 - Lombok
 - Swagger
