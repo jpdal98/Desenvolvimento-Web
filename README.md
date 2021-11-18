@@ -9,7 +9,6 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 - Spring Security
 - Maven
 - Lombok
-- Swagger
 
 ## Implantação em produção
 - Back end: Heroku
