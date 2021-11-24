@@ -1,5 +1,5 @@
 # Web_BackEnd
-Este repositório contém arquivos de códigos em Java com foco na área de desenvolvimento back-end. Todo o material presente neste repositório foi desenvolvido durante a disciplina de Desenvolvimento Web e em práticas de cursos realizados na Udemy, DevSuperior e AlgaWorks.
+Este repositório contém arquivos de códigos em Java com foco na área de desenvolvimento back-end. Todo o material presente neste repositório foi desenvolvido durante a disciplina de Desenvolvimento Web.
 
 # Tecnologias utilizadas
 ## Back end
@@ -12,7 +12,7 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 
 ## Implantação em produção
 - Back end: Heroku
-- Banco de Dados: MySQL, PostgreSQL ou MongoDB
+- Banco de Dados: PostgreSQL
 
 ## Implantação em desenvolvimento
 - Banco de Dados: H2
