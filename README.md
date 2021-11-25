@@ -19,7 +19,6 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 - Lombok
 
 ## Implantação em produção
-- Back end: Heroku
 - Banco de Dados: PostgreSQL ou MySQL
 
 ## Implantação em desenvolvimento
