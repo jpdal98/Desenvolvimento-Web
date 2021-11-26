@@ -19,7 +19,7 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 - Lombok
 
 ## Implantação em produção
-- Banco de Dados: PostgreSQL ou MySQL
+- Banco de Dados: PostgreSQL e MySQL
 
 ## Implantação em desenvolvimento
 - Banco de Dados: H2
