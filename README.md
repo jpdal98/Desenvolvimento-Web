@@ -15,6 +15,7 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 - Spring Boot
 - Jpa / Hibernate
 - Spring Security / JWT
+- Thymeleaf
 - Maven
 - Lombok
 
