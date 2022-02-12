@@ -2,14 +2,14 @@
 Este repositório contém arquivos de códigos em Java com foco na área de desenvolvimento front e back-end. Todo o material presente neste repositório foi desenvolvido durante a disciplina de Desenvolvimento Web.
 
 # Tecnologias utilizadas
-## Front end
+## Front end:
 - Html
 - CSS
 - JavaScript
 - Jquery
 - Bootstrap
 
-## Back end
+## Back end:
 - Java
 - Servlet
 - Spring Boot
@@ -19,8 +19,8 @@ Este repositório contém arquivos de códigos em Java com foco na área de dese
 - Maven
 - Lombok
 
-## Implantação em produção
+## Implantação em produção:
 - Banco de Dados: PostgreSQL e MySQL
 
-## Implantação em desenvolvimento
+## Implantação em desenvolvimento:
 - Banco de Dados: H2
